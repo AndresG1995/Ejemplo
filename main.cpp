@@ -1,18 +1,8 @@
-/* 
- * File:   main.cpp
- * Author: Andres
- *
- * Created on 22 de agosto de 2016, 11:59
- */
-
 #include <cstdlib>
 #include <iostream>
 
 using namespace std;
 
-/*
- * 
- */
 int main(int argc, char** argv) {
 int numero[4];
 double promedio=0;
